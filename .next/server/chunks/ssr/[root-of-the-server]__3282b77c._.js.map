@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../../../../../../vs_code_workspace/react%20work/Next%20js/project/frontend/app/hello/page.jsx"],"sourcesContent":["import React from 'react'\n\nconst Hello = () => {\n  return (\n    <div>Hello world</div>\n  )\n}\n\nexport default Hello"],"names":[],"mappings":"oVAAA,EAAA,CAAA,CAAA,wBAEc,IAEV,CAAA,EAAA,EAAA,GAAA,EAAC,MAAA,UAAI"}
